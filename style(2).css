@@ -1,0 +1,157 @@
+header {
+  background:center / contain no-repeat url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png");
+  width: 900px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+ /* margin-top: 0;
+  display: block;*/
+}
+
+h3 {
+  font-family: 'Abril Fatface';
+  color: #222;
+  font-size: 25px;
+  margin-top: 0px;
+  padding-top: 170px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  padding-left: 200px;
+}
+h1 {
+  font-size: 60px;
+  font-family: 'Abril Fatface';
+  color:#222;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  padding-left: 200px;
+  padding-right: auto;
+  margin-top: 0px;
+}
+.p1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  font-size: 20px;
+  line-height:30px;
+  font-family: 'Josefin Sans';
+}
+.lista1 {
+  list-style-type: square;
+  font-size:20px;
+  line-height:30px;
+  margin-left:auto;
+  margin-right:auto;
+  line-height:25px;
+  margin-top:40px;
+  width:700px;
+  font-family: 'Josefin Sans';
+  color:#222;
+}
+
+blockquote {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-color: grey;
+  width:750px;
+  height:140px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+  margin-bottom:40px;
+  
+  font-size:45px;
+  margin:auto;
+  font-family: 'Abril Fatface';
+  color:white;
+  /*letter-spacing:3px;*/
+}
+blockquote::before {
+  content: '”';
+  font-family: "Abril Fatface";
+  font-size: 250%;
+  position: absolute;
+  top: -70px;
+  left: 0;
+  rotate: 180deg;
+}
+#h2-1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  font-size: 25px;
+  line-height:30px;
+  font-family: 'Josefin Sans';
+  margin-top: 40px;
+  margin-bottom: 60px;
+  letter-spacing: 1px;
+}
+
+h2 {
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+  width: 700px;
+  font-family: 'Josefin Sans';
+  color:#222;
+  font-size: 130%;
+}
+.p2 {
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+  width:700px;
+  font-family: 'Josefin Sans';
+  color:#222;
+  font-size: 15px;
+}
+#idezet2 {
+  width: 700px;
+  padding-right: 20px;
+  padding-left: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-top:30px;
+  margin-bottom: 30px;
+}
+#h3-2 {
+  font-family: 'Merriweather';
+  color: #222;
+  font-size: 13.5px;
+  font-style: italic;
+  padding-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:0px;
+  width:700px;
+}
+#h2-2 {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.lista2 {
+  list-style-type: square;
+  font-size: 17px;
+  line-height: 25px;
+  margin-left: auto;
+  padding-left: 60px;
+  margin-right:auto;
+  margin-top: 20px;
+  width: 700px;
+  font-family: 'Josefin Sans','sans-serif;';
+  color: #222 grey;
+}
+.h2-2b {
+  font-size: 130%;
+  line-height: 40px;
+}
+.line{
+  border-top:3px solid black;
+  margin-left:auto;
+  margin-right:auto;
+  width:700px;
