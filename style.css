@@ -1,0 +1,97 @@
+.body{
+  margin-top:0;
+}
+.kep{
+  display:flex;
+  margin-top:0;
+  margin-left:auto;
+  margin-right:auto;
+  width:1200px;
+  height:380px;
+  background:center / contain no-repeat url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png");
+}
+
+.keph1{
+  margin-left:auto;
+  margin-right:360px;
+  margin-top:245px;
+  font-family: 'Abril Fatface';
+  color:#222;
+  font-size:30px;
+  line-height:1;
+  
+}
+
+.Anakin{
+  font-size:65px;
+}
+
+.first{
+  margin-left:auto;
+  margin-right:auto;
+  line-height:25px;
+  margin-top:40px;
+  width:700px;
+  font-family: 'Josefin Sans';
+  color:#222;
+  line-height:10px;
+}
+
+.par{
+  font-size:20px;
+  line-height:30px;
+}
+
+.list{
+  list-style-type: square;
+}
+
+.box{
+  display:flex;
+  background-color:grey;
+  width:850px;
+  height:180px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+  margin-bottom:50px;
+}
+
+.boxh1{
+  font-size:45px;
+  margin:auto;
+  font-family: 'Abril Fatface';
+  color:white;
+  letter-spacing:3px;
+  margin-left:20px;
+}
+
+.boxh1::before {
+  content: '”';
+}
+
+.big{
+  text-transform: uppercase;
+}
+
+.h2{
+  line-height:35px;
+  margin-bottom:0;
+  
+}
+
+.paragraph{
+  line-height:25px;
+}
+
+.ferde{
+  font-size:18px;
+  font-style:italic;
+}
+
+.line{
+  border-top:3px solid black;
+  margin-left:auto;
+  margin-right:auto;
+  width:700px;
+}
